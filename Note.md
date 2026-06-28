@@ -17,3 +17,8 @@
 **CTA:**
 1. Indrani suggested as of now for local website that would store data locally, if cache is cleared then data is gone too. Look into Replit, n8n and Github
 2. Anjali is looking into Design with Front end, one of the AI she would be using is Loveable.
+
+
+**28th June**
+
+1. Indrani would show Anjali the old website Chatgpt made for her, around 10 pm.
